@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNCardview } = NativeModules;
+const { RNAlipay } = NativeModules;
 
-export default RNCardview;
+export default RNAlipay;

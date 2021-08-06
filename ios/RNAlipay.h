@@ -5,7 +5,7 @@
 #import <React/RCTBridgeModule.h>
 #endif
 
-@interface RNCardview : NSObject <RCTBridgeModule>
+@interface RNAlipay : NSObject <RCTBridgeModule>
 
 @end
   

@@ -3,7 +3,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:RNCardview.xcodeproj">
+      location = "group:RNAlipay.xcodeproj">
    </FileRef>
 </Workspace>
   

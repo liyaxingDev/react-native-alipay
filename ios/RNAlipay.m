@@ -1,7 +1,7 @@
 
-#import "RNCardview.h"
+#import "RNAlipay.h"
 
-@implementation RNCardview
+@implementation RNAlipay
 
 - (dispatch_queue_t)methodQueue
 {

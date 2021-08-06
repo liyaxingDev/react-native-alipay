@@ -6,17 +6,17 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.Callback;
 
-public class RNCardviewModule extends ReactContextBaseJavaModule {
+public class RNAlipayModule extends ReactContextBaseJavaModule {
 
   private final ReactApplicationContext reactContext;
 
-  public RNCardviewModule(ReactApplicationContext reactContext) {
+  public RNAlipayModule(ReactApplicationContext reactContext) {
     super(reactContext);
     this.reactContext = reactContext;
   }
 
   @Override
   public String getName() {
-    return "RNCardview";
+    return "RNAlipay";
   }
 }
