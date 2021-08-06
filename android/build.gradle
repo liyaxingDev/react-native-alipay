@@ -24,6 +24,15 @@ android {
     lintOptions {
         abortOnError false
     }
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+    compileOptions {
+        sourceCompatibility 1.8
+        targetCompatibility 1.8
+    }
 }
 
 repositories {
@@ -32,5 +41,7 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile(name: 'alipaysdk-15.8.03.210428205839', ext: 'aar')
 }
   

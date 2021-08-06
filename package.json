@@ -1,18 +1,43 @@
-
 {
-  "name": "react-native-zhifubao-zhifu",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "react-native-zhifubao-zhifu",
+  "_id": "react-native-zhifubao-zhifu@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-NqTbd6Da/TSUiudDT4UDcOJWsqCxK4dOLhpO7ni0VZ4VaO+Y6lvd2oKMDSO3ztYQUHUTVowO9qPtokKDlaTGrg==",
+  "_location": "/react-native-zhifubao-zhifu",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-zhifubao-zhifu",
+    "name": "react-native-zhifubao-zhifu",
+    "escapedName": "react-native-zhifubao-zhifu",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-zhifubao-zhifu/-/react-native-zhifubao-zhifu-1.0.0.tgz",
+  "_shasum": "64aeccc7eed961c859e9f90de3711f1f64a9726b",
+  "_spec": "react-native-zhifubao-zhifu",
+  "_where": "/Users/work/StudioProjects/fqpartyrn",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
   "keywords": [
     "react-native"
   ],
-  "author": "",
   "license": "",
+  "main": "index.js",
+  "name": "react-native-zhifubao-zhifu",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
